@@ -164,7 +164,7 @@ main {
 }
 
 h1#word-display {
-    font-size: 8vw;
+    font-size: clamp(20px, 5vw, 80px);
     letter-spacing: 2px;
     color: #38322e;
     word-break: break-word;
@@ -252,7 +252,7 @@ button:active {
 .description-box {
     border-radius: 14px;
     padding: 24px;
-    font-size: 16px;
+    font-size: clamp(1px, 20px, 30px);
     line-height: 1.6;
     width: 100%;
     animation: fadeIn 0.4s ease-out;

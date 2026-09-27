@@ -26,7 +26,7 @@ const historySidebar = document.getElementById('history-sidebar');
 
 async function loadWords() {
     try {
-        const response = await fetch('words.json');
+        const response = await fetch('https://raw.githubusercontent.com/Naxo175/fomot/refs/heads/main/words.json');
         const data = await response.json();
         words = data.filter(w => w.mot && w.mot.trim() !== "");
         updateHistoryUI();
