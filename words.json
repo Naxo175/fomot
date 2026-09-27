@@ -180,6 +180,191 @@
     "sourceUrl": ""
   },
   {
+    "mot": "Flibustier",
+    "correctDefinition": "Un escroc.",
+    "fakeDefinitions": [
+      "Arme à feu utilisée par les pirates.",
+      "Dessert typique du Limousin.",
+      "Hélicoptère monoplace."
+    ],
+    "source": "Le Robert",
+    "sourceUrl": "https://dictionnaire.lerobert.com/definition/flibustier"
+  },
+  {
+    "mot": "Plumard",
+    "correctDefinition": "Terme familier de \"lit\".",
+    "fakeDefinitions": [
+      "Terme familier de \"oiseau\".",
+      "Bouquet de plumes.",
+      "Ustensile de ménage."
+    ],
+    "source": "Le Robert",
+    "sourceUrl": "https://dictionnaire.lerobert.com/definition/plumard"
+  },
+  {
+    "mot": "Tandem",
+    "correctDefinition": "Bicyclette à deux sièges et deux pédaliers.",
+    "fakeDefinitions": [
+      "Dilemme dont toutes les issues ne sont pas autant contradictoires les unes que les autres.",
+      "Tour de magie qui ne s'est pas terminé comme la·le magicien·ne l'avait imaginé.",
+      "Verre dans lequel on boit le thé au Royaume-Uni."
+    ],
+    "source": "Le Robert",
+    "sourceUrl": "https://dictionnaire.lerobert.com/definition/tandem"
+  },
+  {
+    "mot": "Tituber",
+    "correctDefinition": "Marcher en ayant du mal à garder son équilibre.",
+    "fakeDefinitions": [
+      "Durant une expérience scientifique, nommer les tubes à essais, par exemple en y collant des étiquettes.",
+      "Se demander si un rêve n'est pas la réalité."
+    ],
+    "source": "Wiktionnaire",
+    "sourceUrl": "https://fr.wiktionary.org/wiki/tituber"
+  },
+  {
+    "mot": "Ravigote",
+    "correctDefinition": "Sauce à base de vinaigrette agrémentée de fines herbes.",
+    "fakeDefinitions": [
+      "Robe rose et blanche populaire durant la période de Renaissance en France.",
+      "Terme péjoratif qui désigne une personne dont son QI est inférieur à la moyenne."
+    ],
+    "source": "Larousse",
+    "sourceUrl": "https://www.larousse.fr/dictionnaires/francais/ravigote/66716"
+  },
+  {
+    "mot": "Amphigouri",
+    "correctDefinition": "Discours ou écrit confus et incompréhensible.",
+    "fakeDefinitions": [
+      "Cours ou leçon remplie de fautes, de mauvaises informations.",
+      "",
+      ""
+    ],
+    "source": "",
+    "sourceUrl": ""
+  },
+  {
+    "mot": "Anachronisme",
+    "correctDefinition": "Erreur qui consiste à ne pas remettre un événement ou un objet dans son époque",
+    "fakeDefinitions": [
+      "Sigle qui se prononce comme un mot ordinaire (exemple : OVNI).",
+      "",
+      ""
+    ],
+    "source": "Larousse",
+    "sourceUrl": "https://www.larousse.fr/dictionnaires/francais/anachronisme/3187"
+  },
+  {
+    "mot": "Inextricable",
+    "correctDefinition": "",
+    "fakeDefinitions": [
+      "",
+      "",
+      ""
+    ],
+    "source": "",
+    "sourceUrl": ""
+  },
+  {
+    "mot": "Soliloquer",
+    "correctDefinition": "",
+    "fakeDefinitions": [
+      "",
+      "",
+      ""
+    ],
+    "source": "",
+    "sourceUrl": ""
+  },
+  {
+    "mot": "Dichotomie",
+    "correctDefinition": "",
+    "fakeDefinitions": [
+      "",
+      "",
+      ""
+    ],
+    "source": "",
+    "sourceUrl": ""
+  },
+  {
+    "mot": "Éponyme",
+    "correctDefinition": "",
+    "fakeDefinitions": [
+      "",
+      "",
+      ""
+    ],
+    "source": "",
+    "sourceUrl": ""
+  },
+  {
+    "mot": "Hurluberlu",
+    "correctDefinition": "",
+    "fakeDefinitions": [
+      "",
+      "",
+      ""
+    ],
+    "source": "",
+    "sourceUrl": ""
+  },
+  {
+    "mot": "Zigomar",
+    "correctDefinition": "",
+    "fakeDefinitions": [
+      "",
+      "",
+      ""
+    ],
+    "source": "",
+    "sourceUrl": ""
+  },
+  {
+    "mot": "Tintamarre",
+    "correctDefinition": "",
+    "fakeDefinitions": [
+      "",
+      "",
+      ""
+    ],
+    "source": "",
+    "sourceUrl": ""
+  },
+  {
+    "mot": "Carambouille",
+    "correctDefinition": "",
+    "fakeDefinitions": [
+      "",
+      "",
+      ""
+    ],
+    "source": "",
+    "sourceUrl": ""
+  },
+  {
+    "mot": "",
+    "correctDefinition": "",
+    "fakeDefinitions": [
+      "",
+      "",
+      ""
+    ],
+    "source": "",
+    "sourceUrl": ""
+  },
+  {
+    "mot": "",
+    "correctDefinition": "",
+    "fakeDefinitions": [
+      "",
+      "",
+      ""
+    ],
+    "source": "",
+    "sourceUrl": ""
+  },
+  {
     "mot": "",
     "correctDefinition": "",
     "fakeDefinitions": [
