@@ -3,8 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>FOMOT - Quelle est la bonne définition ?</title>
+    <title>FOMOT - Trouve la bonne définition !</title>
     <link rel="stylesheet" href="styles.css">
+    <link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#f2ece1">
 </head>
 <body>
 
@@ -14,7 +16,7 @@
         <ul id="history-list"></ul>
     </aside>
 
-    <!-- Bouton menu -->
+    <!-- Bouton de la sidebar -->
     <button id="btn-toggle-menu" class="btn-toggle-menu" aria-label="Afficher le menu">
         <img src="src/menu-icon.png" alt="Menu">
     </button>
@@ -36,7 +38,7 @@
 
                 <p id="result-message" class="result-message hidden"></p>
 
-                <!-- Les boutons seront générés dynamiquement ici -->
+                <!-- Boutons -->
                 <div id="buttons-container" class="buttons-container"></div>
 
                 <div id="description-box" class="description-box hidden">

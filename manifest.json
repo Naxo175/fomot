@@ -1,0 +1,22 @@
+{
+  "name": "FOMOT - Trouve la bonne définition !",
+  "short_name": "FOMOT",
+  "description": "Trouve la bonne définition des mots rares et insolites !",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fbf8f3",
+  "theme_color": "#f2ece1",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "src/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "src/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

@@ -58,7 +58,6 @@ function updateHistoryUI() {
     });
 }
 
-// Fonction utilitaire pour mélanger un tableau
 function shuffleArray(array) {
     for (let i = array.length - 1; i > 0; i--) {
         const j = Math.floor(Math.random() * (i + 1));
@@ -86,7 +85,6 @@ function showNextWord() {
     wordDisplay.style.fontSize = "64px";
     wordDisplay.textContent = currentWord.mot;
 
-    // Préparation des options
     const options = [
         { text: currentWord.correctDefinition, isCorrect: true }
     ];
@@ -97,10 +95,8 @@ function showNextWord() {
         });
     }
 
-    // Mélange des options
     const shuffledOptions = shuffleArray(options);
 
-    // Vider et régénérer les boutons
     buttonsContainer.innerHTML = '';
     const letters = ['A', 'B', 'C', 'D', 'E'];
 
@@ -161,3 +157,12 @@ btnStart.addEventListener('click', startGame);
 btnNext.addEventListener('click', showNextWord);
 
 loadWords();
+
+
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', () => {
+    navigator.serviceWorker.register('./sw.js')
+      .then((reg) => console.log('Service Worker enregistré !', reg))
+      .catch((err) => console.error('Erreur Service Worker :', err));
+  });
+}
