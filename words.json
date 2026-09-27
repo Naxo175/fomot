@@ -1,0 +1,204 @@
+[
+  {
+    "mot": "Petrichor",
+    
+    "correctDefinition": "Odeur caractéristique que prend la terre sèche après la pluie.",
+    "fakeDefinitions": [
+      "Petite roche sédimentaire contenant des fossiles d'algues rares.",
+      "Animal rare de la savane."
+    ],
+    "source": "Larousse",
+    "sourceUrl": "https://www.larousse.fr/dictionnaires/francais/p%C3%A9trichor/192512"
+  },
+  {
+    "mot": "Callipyge",
+    "correctDefinition": "Qui a de belles fesses harmonieuses.",
+    "fakeDefinitions": [
+      "Se dit d'une calligraphie ancienne particulièrement ornée."
+    ],
+    "source": "Le Robert",
+    "sourceUrl": "https://dictionnaire.lerobert.com/definition/callipyge"
+  },
+  {
+    "mot": "Fanfaronner",
+    "correctDefinition": "Se vanter.",
+    "fakeDefinitions": [
+      "Jouer de la trompette en public.",
+      "Au Moyen-Âge, danser.",
+      "Se balader sans but."
+    ],
+    "source": "",
+    "sourceUrl": ""
+  },
+  {
+    "mot": "Boustifaille",
+    "correctDefinition": "Synonyme de nourriture.",
+    "fakeDefinitions": [
+      "Un fou rire impossible à arrêter.",
+      "Une petite crevasse dans la terre.",
+      "L'ancêtre de \"truc\" au Moyen-Âge."
+    ],
+    "source": "",
+    "sourceUrl": ""
+  },
+  {
+    "mot": "Tarabiscoté",
+    "correctDefinition": "Désigne un raisonnement ou une explication excessivement compliqués.",
+    "fakeDefinitions": [
+      "Désigne un objet long et biscornu.",
+      "Désigne une biscotte qui serait mal grillée."
+    ],
+    "source": "",
+    "sourceUrl": ""
+  },
+  {
+    "mot": "Papal",
+    "correctDefinition": "Tout ce qui se rapproche au Pape.",
+    "fakeDefinitions": [
+      "Tout ce qui se rapproche au père (de famille).",
+      "Quelque chose que l'on peut palper.",
+      "Qui n'est pas pâle."
+    ],
+    "source": "",
+    "sourceUrl": ""
+  },
+  {
+    "mot": "Gobemouche",
+    "correctDefinition": "Insulte désignant une personne naïve qui croit tout ce qu'on lui dit.",
+    "fakeDefinitions": [
+      "Outil électronique permettant d'éliminer les mouches aux alentours.",
+      "Animal qui gobe les mouches."
+    ],
+    "source": "",
+    "sourceUrl": ""
+  },
+  {
+    "mot": "Infodémie",
+    "correctDefinition": "Diffusion large et rapide sur Internet de fausses rumeurs, parfois dangereuses, sur un sujet.",
+    "fakeDefinitions": [
+      "Maladie inventée qu'on attraperait en regardant trop les chaînes d'informations.",
+      "L'ensemble des informations connues à propos d'une pandémie.",
+      "En informatique, synonyme de virus."
+    ],
+    "source": "",
+    "sourceUrl": ""
+  },
+  {
+    "mot": "Glyptothèque",
+    "correctDefinition": "Collection de pierres gravées.",
+    "fakeDefinitions": [
+      "Bibliothèque en Antiquité.",
+      "Entrepôt permettant de stocker des objets dangereux."
+    ],
+    "source": "",
+    "sourceUrl": ""
+  },
+  {
+    "mot": "Zinzolin",
+    "correctDefinition": "Violet rougeâtre.",
+    "fakeDefinitions": [
+      "Une personne en état d'ivresse sans avoir bu.",
+      "Mot complet de \"zinzin\".",
+      "Petite vis légèrement courbée."
+    ],
+    "source": "",
+    "sourceUrl": ""
+  },
+  {
+    "mot": "Homogamie",
+    "correctDefinition": "Le fait de choisir un·e partenaire qui a les mêmes caractéristiques sociales, géographiques ou culturelles.",
+    "fakeDefinitions": [
+      "Le fait de n'avoir qu'un·e seul·e partenaire.",
+      "En solfège, désigne un ensemble de gammes dont la clé est la même.",
+      "Le fait de n'avoir été en couple qu'une seule fois."
+    ],
+    "source": "",
+    "sourceUrl": ""
+  },
+  {
+    "mot": "Ectomorphe",
+    "correctDefinition": "Invididu au physique élancé.",
+    "fakeDefinitions": [
+      "Animal dont son corps aurait évolué en forme humaine.",
+      "Pokémon qui peut prendre l'apparence d'un autre Pokémon.",
+      "Animal qui a huit vies."
+    ],
+    "source": "",
+    "sourceUrl": ""
+  },
+  {
+    "mot": "Foutriquet",
+    "correctDefinition": "Homme de de petite taille et insignifiant.",
+    "fakeDefinitions": [
+      "Ustensile de cuisine surtout utilisé au Japon.",
+      "Fouet utilisé pour dresser de petits animaux.",
+      "Peluche dont on n'accorde plus autant d'importance qu'avant."
+    ],
+    "source": "",
+    "sourceUrl": ""
+  },
+  {
+    "mot": "Fesse-mathieu",
+    "correctDefinition": "Autrefois, quelqu'un qui prêtait de l'argent avec un intérêt excessif.",
+    "fakeDefinitions": [
+      "Ancêtre du prénom Mathieu qui est devenu un nom commun.",
+      "Se dit d'une personne exerçant un métier autrefois très populaire mais peu répandu maintenant."
+    ],
+    "source": "",
+    "sourceUrl": ""
+  },
+  {
+    "mot": "Pédoncule",
+    "correctDefinition": "Petite tige qui se trouve sur la pomme (ou tout autre fruit).",
+    "fakeDefinitions": [
+      "Petit insecte qui ressemble à un pied d'humain.",
+      "Ancienne insulte.",
+      "Type de pâtes originaire des pays nordiques."
+    ],
+    "source": "",
+    "sourceUrl": ""
+  },
+  {
+    "mot": "Tryptophane",
+    "correctDefinition": "Un acide essentiel qu'on ne trouve que dans l'alimentation.",
+    "fakeDefinitions": [
+      "Une catégorie de plantes qui n'a pas besoin d'eau pour vivre.",
+      "Désigne une personne qui adore manger des tripes."
+    ],
+    "source": "",
+    "sourceUrl": ""
+  },
+  {
+    "mot": "Esperluette",
+    "correctDefinition": "Nom du symbole \"<span class=\"classic-font\">&</span>\".",
+    "fakeDefinitions": [
+      "Spectacle de marionnettes en plein air destiné aux enfants.",
+      "Personne qui espère que ses plus grands rêves, parfois intatteignables, se réalisent.",
+      "Traditionnel habit des bonnes sœurs."
+    ],
+    "source": "",
+    "sourceUrl": ""
+  },
+  {
+    "mot": "",
+    "correctDefinition": "",
+    "fakeDefinitions": [
+      "",
+      "",
+      ""
+    ],
+    "source": "",
+    "sourceUrl": ""
+  },
+  {
+    "mot": "",
+    "correctDefinition": "",
+    "fakeDefinitions": [
+      "",
+      "",
+      ""
+    ],
+    "source": "",
+    "sourceUrl": ""
+  }
+]

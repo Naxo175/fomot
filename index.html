@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FOMOT - Quelle est la bonne définition ?</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <!-- Sidebar de l'historique -->
+    <aside id="history-sidebar" class="history-sidebar">
+        <h2>Mots joués</h2>
+        <ul id="history-list"></ul>
+    </aside>
+
+    <!-- Bouton menu -->
+    <button id="btn-toggle-menu" class="btn-toggle-menu" aria-label="Afficher le menu">
+        <img src="src/menu-icon.png" alt="Menu">
+    </button>
+
+    <main id="main-card">
+        <div class="card-content">
+            <!-- Écran d'accueil -->
+            <div id="start-screen">
+                <h1 class="title-fomot">FOMOT</h1>
+                <p class="subtitle">Trouve la bonne définition !</p>
+                <button id="btn-start" class="btn-start">Commencer</button>
+            </div>
+
+            <!-- Interface de jeu -->
+            <div id="game-screen" class="hidden">
+                <div id="score-display" class="score-display">Score : 0 pts</div>
+
+                <h1 id="word-display">...</h1>
+
+                <p id="result-message" class="result-message hidden"></p>
+
+                <!-- Les boutons seront générés dynamiquement ici -->
+                <div id="buttons-container" class="buttons-container"></div>
+
+                <div id="description-box" class="description-box hidden">
+                    <p id="description-text"></p>
+                    <button id="btn-next" class="btn-next">Mot suivant →</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="source-container">
+            <p id="source-display" class="source-text hidden">
+                Source : <a id="source-link" class="source-link" href="#" target="_blank" rel="noopener noreferrer"></a>
+            </p>
+        </div>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
