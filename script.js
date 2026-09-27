@@ -82,7 +82,6 @@ function showNextWord() {
     const randomIndex = Math.floor(Math.random() * remainingWords.length);
     currentWord = remainingWords[randomIndex];
 
-    wordDisplay.style.fontSize = "64px";
     wordDisplay.textContent = currentWord.mot;
 
     const options = [

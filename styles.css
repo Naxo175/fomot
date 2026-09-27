@@ -141,13 +141,13 @@ main {
 }
 
 .title-fomot {
-    font-size: 90px;
+    font-size: clamp(40px, 7vw, 80px);
     letter-spacing: 4px;
     color: #38322e;
 }
 
 .subtitle {
-    font-size: 45px;
+    font-size: clamp(30px, 4vw, 50px);
     color: #7a7067;
     margin-bottom: 15px;
     font-family: Italianno, 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -164,7 +164,7 @@ main {
 }
 
 h1#word-display {
-    font-size: 64px;
+    font-size: 8vw;
     letter-spacing: 2px;
     color: #38322e;
     word-break: break-word;
@@ -215,7 +215,7 @@ button:active {
     text-align: left;
     line-height: 1.4;
     font-weight: normal;
-    font-size: 16px;
+    font-size: clamp(20px, 20px, 50px);
 }
 
 .btn-choice:hover {
