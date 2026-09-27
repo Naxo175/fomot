@@ -156,3 +156,20 @@ btnStart.addEventListener('click', startGame);
 btnNext.addEventListener('click', showNextWord);
 
 loadWords();
+
+
+// function fitTextToContainer(element, maxFontSize = 64, minFontSize = 20) {
+//     let fontSize = maxFontSize;
+//     element.style.fontSize = `${fontSize}px`;
+
+//     // Tant que le texte déborde de son conteneur (en largeur ou en hauteur)
+//     while (
+//         (element.scrollWidth > element.clientWidth || element.scrollHeight > element.clientHeight) &&
+//         fontSize > minFontSize
+//     ) {
+//         fontSize--;
+//         element.style.fontSize = `${fontSize}px`;
+//     }
+// }
+
+// fitTextToContainer(wordDisplay, 60, 70);

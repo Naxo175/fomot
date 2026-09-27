@@ -164,7 +164,7 @@ main {
 }
 
 h1#word-display {
-    font-size: clamp(20px, 5vw, 80px);
+    font-size: clamp(30px, 5vw, 80px);
     letter-spacing: 2px;
     color: #38322e;
     word-break: break-word;
