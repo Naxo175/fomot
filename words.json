@@ -1,100 +1,110 @@
 [
   {
     "mot": "Petrichor",
-    
+    "description": "C'est donc ça, la fameuse odeur de la pluie !",
     "correctDefinition": "Odeur caractéristique que prend la terre sèche après la pluie.",
     "fakeDefinitions": [
-      "Petite roche sédimentaire contenant des fossiles d'algues rares.",
-      "Animal rare de la savane."
+      "Petite roche que l'on trouve dans les fonds marins.",
+      "Animal de la savane qui roule pour se déplacer."
     ],
     "source": "Larousse",
     "sourceUrl": "https://www.larousse.fr/dictionnaires/francais/p%C3%A9trichor/192512"
   },
   {
     "mot": "Callipyge",
+    "description": "C'est un adjectif utilisé pour complimenter le <span class=\"italic-font\">postérieur</span> de quelqu'un tout en restant dans un langage soutenu. Une utilisation célèbre de ce mot est la statue de la <span class=\"italic-font\">Vénus callipyge</span>.",
     "correctDefinition": "Qui a de belles fesses harmonieuses.",
     "fakeDefinitions": [
-      "Se dit d'une calligraphie ancienne particulièrement ornée."
+      "Une calligraphie ancienne particulièrement ornée.",
+      "Un animal qui imiterait certaines caractéristiques du pigeon."
     ],
     "source": "Le Robert",
     "sourceUrl": "https://dictionnaire.lerobert.com/definition/callipyge"
   },
   {
     "mot": "Fanfaronner",
+    "description": "Même si <span class=\"italic-font\">fanfaronner</span> et <span class=\"italic-font\">fanfare</span> ont un lien étyomologique important, leurs significations n'ont aucun rapport.",
     "correctDefinition": "Se vanter.",
     "fakeDefinitions": [
-      "Jouer de la trompette en public.",
+      "Faire partie d'une fanfare.",
       "Au Moyen-Âge, danser.",
       "Se balader sans but."
     ],
-    "source": "",
-    "sourceUrl": ""
+    "source": "Linternaute",
+    "sourceUrl": "https://www.linternaute.fr/dictionnaire/fr/definition/fanfaronner/"
   },
   {
     "mot": "Boustifaille",
+    "description": "Facile à deviner, puisqu'il partage la même racine que le terme <span class=\"italic-font\">bouffe</span>.",
     "correctDefinition": "Synonyme de nourriture.",
     "fakeDefinitions": [
       "Un fou rire impossible à arrêter.",
       "Une petite crevasse dans la terre.",
       "L'ancêtre de \"truc\" au Moyen-Âge."
     ],
-    "source": "",
-    "sourceUrl": ""
+    "source": "Le Robert",
+    "sourceUrl": "https://dictionnaire.lerobert.com/definition/boustifaille"
   },
   {
     "mot": "Tarabiscoté",
+    "description": "",
     "correctDefinition": "Désigne un raisonnement ou une explication excessivement compliqués.",
     "fakeDefinitions": [
       "Désigne un objet long et biscornu.",
       "Désigne une biscotte qui serait mal grillée."
     ],
-    "source": "",
-    "sourceUrl": ""
+    "source": "Linternaute",
+    "sourceUrl": "https://www.linternaute.fr/dictionnaire/fr/definition/tarabiscote/"
   },
   {
     "mot": "Papal",
+    "description": "On pardonne ceux qui ont pensé au <span class=\"italic-font\">père</span> : ces deux mots désignent la même fonction de paternité.",
     "correctDefinition": "Tout ce qui se rapproche au Pape.",
     "fakeDefinitions": [
       "Tout ce qui se rapproche au père (de famille).",
       "Quelque chose que l'on peut palper.",
       "Qui n'est pas pâle."
     ],
-    "source": "",
-    "sourceUrl": ""
+    "source": "Larousse",
+    "sourceUrl": "https://www.larousse.fr/dictionnaires/francais/papal/57735"
   },
   {
     "mot": "Gobemouche",
+    "description": "Au sens propre, ce mot désigne un petit oiseau qui attrape les mouches en plein vol. C'est donc de là que vient l'insuite.",
     "correctDefinition": "Insulte désignant une personne naïve qui croit tout ce qu'on lui dit.",
     "fakeDefinitions": [
       "Outil électronique permettant d'éliminer les mouches aux alentours.",
       "Animal qui gobe les mouches."
     ],
-    "source": "",
-    "sourceUrl": ""
+    "source": "Larousse",
+    "sourceUrl": "https://www.larousse.fr/dictionnaires/francais/gobe-mouches/37376"
   },
   {
     "mot": "Infodémie",
+    "description": "",
     "correctDefinition": "Diffusion large et rapide sur Internet de fausses rumeurs, parfois dangereuses, sur un sujet.",
     "fakeDefinitions": [
       "Maladie inventée qu'on attraperait en regardant trop les chaînes d'informations.",
       "L'ensemble des informations connues à propos d'une pandémie.",
       "En informatique, synonyme de virus."
     ],
-    "source": "",
-    "sourceUrl": ""
+    "source": "Larousse",
+    "sourceUrl": "https://www.larousse.fr/dictionnaires/francais/infod%c3%a9mie/191124"
   },
   {
     "mot": "Glyptothèque",
+    "description": "",
     "correctDefinition": "Collection de pierres gravées.",
     "fakeDefinitions": [
       "Bibliothèque en Antiquité.",
       "Entrepôt permettant de stocker des objets dangereux."
     ],
-    "source": "",
-    "sourceUrl": ""
+    "source": "Larousse",
+    "sourceUrl": "https://www.larousse.fr/dictionnaires/francais/glyptoth%c3%a8que/37325"
   },
   {
     "mot": "Zinzolin",
+    "description": "",
     "correctDefinition": "Violet rougeâtre.",
     "fakeDefinitions": [
       "Une personne en état d'ivresse sans avoir bu.",
@@ -106,81 +116,89 @@
   },
   {
     "mot": "Homogamie",
+    "description": "",
     "correctDefinition": "Le fait de choisir un·e partenaire qui a les mêmes caractéristiques sociales, géographiques ou culturelles.",
     "fakeDefinitions": [
       "Le fait de n'avoir qu'un·e seul·e partenaire.",
       "En solfège, désigne un ensemble de gammes dont la clé est la même.",
       "Le fait de n'avoir été en couple qu'une seule fois."
     ],
-    "source": "",
-    "sourceUrl": ""
+    "source": "Larousse",
+    "sourceUrl": "https://www.larousse.fr/dictionnaires/francais/zinzolin/83150"
   },
   {
     "mot": "Ectomorphe",
+    "description": "",
     "correctDefinition": "Invididu au physique élancé.",
     "fakeDefinitions": [
       "Animal dont son corps aurait évolué en forme humaine.",
       "Pokémon qui peut prendre l'apparence d'un autre Pokémon.",
       "Animal qui a huit vies."
     ],
-    "source": "",
-    "sourceUrl": ""
+    "source": "Larousse",
+    "sourceUrl": "https://www.larousse.fr/dictionnaires/francais/ectomorphe/27772"
   },
   {
     "mot": "Foutriquet",
+    "description": "",
     "correctDefinition": "Homme de de petite taille et insignifiant.",
     "fakeDefinitions": [
       "Ustensile de cuisine surtout utilisé au Japon.",
       "Fouet utilisé pour dresser de petits animaux.",
       "Peluche dont on n'accorde plus autant d'importance qu'avant."
     ],
-    "source": "",
-    "sourceUrl": ""
+    "source": "Dictionnaire de l'Académie Française",
+    "sourceUrl": "https://www.dictionnaire-academie.fr/article/A9F1465"
   },
   {
     "mot": "Fesse-mathieu",
+    "description": "",
     "correctDefinition": "Autrefois, quelqu'un qui prêtait de l'argent avec un intérêt excessif.",
     "fakeDefinitions": [
       "Ancêtre du prénom Mathieu qui est devenu un nom commun.",
       "Se dit d'une personne exerçant un métier autrefois très populaire mais peu répandu maintenant."
     ],
-    "source": "",
-    "sourceUrl": ""
+    "source": "Dictionnaire de l'Académie Française",
+    "sourceUrl": "https://www.dictionnaire-academie.fr/article/A9F0564"
   },
   {
     "mot": "Pédoncule",
+    "description": "",
     "correctDefinition": "Petite tige qui se trouve sur la pomme (ou tout autre fruit).",
     "fakeDefinitions": [
       "Petit insecte qui ressemble à un pied d'humain.",
       "Ancienne insulte.",
       "Type de pâtes originaire des pays nordiques."
     ],
-    "source": "",
-    "sourceUrl": ""
+    "source": "Larousse",
+    "sourceUrl": "https://www.larousse.fr/dictionnaires/francais/p%c3%a9doncule/58973"
   },
   {
     "mot": "Tryptophane",
+    "description": "",
     "correctDefinition": "Un acide essentiel qu'on ne trouve que dans l'alimentation.",
     "fakeDefinitions": [
       "Une catégorie de plantes qui n'a pas besoin d'eau pour vivre.",
       "Désigne une personne qui adore manger des tripes."
     ],
-    "source": "",
-    "sourceUrl": ""
+    "source": "Larousse",
+    "sourceUrl": "https://www.larousse.fr/dictionnaires/francais/tryptophane/80092"
   },
   {
     "mot": "Esperluette",
+    "description": "Ce symbole est aussi appelé \"et commercial\", mais c'est plus stylé de dire esperluette ! 😎",
     "correctDefinition": "Nom du symbole \"<span class=\"classic-font\">&</span>\".",
     "fakeDefinitions": [
       "Spectacle de marionnettes en plein air destiné aux enfants.",
       "Personne qui espère que ses plus grands rêves, parfois intatteignables, se réalisent.",
       "Traditionnel habit des bonnes sœurs."
     ],
-    "source": "",
-    "sourceUrl": ""
+    "source": "Larousse",
+    "sourceUrl": "https://www.larousse.fr/dictionnaires/francais/esperluette/31042"
   },
   {
     "mot": "Flibustier",
+    "description": "",
     "correctDefinition": "Un escroc.",
     "fakeDefinitions": [
       "Arme à feu utilisée par les pirates.",
@@ -192,6 +210,7 @@
   },
   {
     "mot": "Plumard",
+    "description": "",
     "correctDefinition": "Terme familier de \"lit\".",
     "fakeDefinitions": [
       "Terme familier de \"oiseau\".",
@@ -203,6 +222,7 @@
   },
   {
     "mot": "Tandem",
+    "description": "",
     "correctDefinition": "Bicyclette à deux sièges et deux pédaliers.",
     "fakeDefinitions": [
       "Dilemme dont toutes les issues ne sont pas autant contradictoires les unes que les autres.",
@@ -214,6 +234,7 @@
   },
   {
     "mot": "Tituber",
+    "description": "",
     "correctDefinition": "Marcher en ayant du mal à garder son équilibre.",
     "fakeDefinitions": [
       "Durant une expérience scientifique, nommer les tubes à essais, par exemple en y collant des étiquettes.",
@@ -224,6 +245,7 @@
   },
   {
     "mot": "Ravigote",
+    "description": "",
     "correctDefinition": "Sauce à base de vinaigrette agrémentée de fines herbes.",
     "fakeDefinitions": [
       "Robe rose et blanche populaire durant la période de Renaissance en France.",
@@ -234,20 +256,22 @@
   },
   {
     "mot": "Amphigouri",
+    "description": "",
     "correctDefinition": "Discours ou écrit confus et incompréhensible.",
     "fakeDefinitions": [
-      "Cours ou leçon remplie de fautes, de mauvaises informations.",
+      "Cours ou leçon rempli de fautes, de mauvaises informations.",
       "",
       ""
     ],
-    "source": "",
-    "sourceUrl": ""
+    "source": "Le Robert",
+    "sourceUrl": "https://dictionnaire.lerobert.com/definition/amphigouri"
   },
   {
     "mot": "Anachronisme",
+    "description": "",
     "correctDefinition": "Erreur qui consiste à ne pas remettre un événement ou un objet dans son époque",
     "fakeDefinitions": [
-      "Sigle qui se prononce comme un mot ordinaire (exemple : OVNI).",
+      "Abréviation qui se prononce comme un mot ordinaire (exemple : OVNI).",
       "",
       ""
     ],
@@ -255,135 +279,84 @@
     "sourceUrl": "https://www.larousse.fr/dictionnaires/francais/anachronisme/3187"
   },
   {
-    "mot": "Inextricable",
-    "correctDefinition": "",
-    "fakeDefinitions": [
-      "",
-      "",
-      ""
-    ],
-    "source": "",
-    "sourceUrl": ""
-  },
-  {
     "mot": "Soliloquer",
-    "correctDefinition": "",
+    "description": "",
+    "correctDefinition": "Se parler à soi-même.",
     "fakeDefinitions": [
-      "",
-      "",
-      ""
+      "Tenter de bronzer, sans résultat convaincant.",
+      "Faire un solo durant un concert.",
+      "Lire un livre à voix haute involontairement."
     ],
-    "source": "",
-    "sourceUrl": ""
-  },
-  {
-    "mot": "Dichotomie",
-    "correctDefinition": "",
-    "fakeDefinitions": [
-      "",
-      "",
-      ""
-    ],
-    "source": "",
-    "sourceUrl": ""
+    "source": "Larousse",
+    "sourceUrl": "https://www.larousse.fr/dictionnaires/francais/soliloquer/73329"
   },
   {
     "mot": "Éponyme",
-    "correctDefinition": "",
+    "description": "Par exemple, Shrek est le personnage éponyme du film. Attention : on ne dit pas qu'un livre ou un film est éponyme, c'est bien la personne qui l'est !",
+    "correctDefinition": "Qui donne son nom à quelque chose.",
     "fakeDefinitions": [
-      "",
-      "",
-      ""
+      "Qui fait référence à Épona, la protectrice des chevaux dans la mythologie celtique gauloise.",
+      "Désigne un évènement ou une action récurrents dans une série."
     ],
-    "source": "",
-    "sourceUrl": ""
+    "source": "Le Robert",
+    "sourceUrl": "https://dictionnaire.lerobert.com/definition/eponyme"
+  },
+  {
+    "mot": "Gastéropode",
+    "description": "Ce mot veut dire \"pied sur le ventre\" : ça explique pourquoi ils rampent sur leur ventre...",
+    "correctDefinition": "Nom scientifique de la famille des escargots et des limaces.",
+    "fakeDefinitions": [
+      "Dispositif médicale contre la gastro-entérite.",
+      "Adepte de la gastronomie.",
+      "Véhicule conçu pour explorer la Lune."
+    ],
+    "source": "Le Robert",
+    "sourceUrl": "https://dictionnaire.lerobert.com/definition/gasteropode"
   },
   {
     "mot": "Hurluberlu",
-    "correctDefinition": "",
+    "description": "",
+    "correctDefinition": "Désigne une personne extravagante, qui agit et parle de manière imprévisible.",
     "fakeDefinitions": [
-      "",
-      "",
-      ""
+      "Désigne une personne qui entre dans une pièce et oublie instantanément ce qu'elle était venue y faire.",
+      "Ancien instrument de musique à vent, proche de la cornemuse, utilisé au Moyen Âge lors des fêtes de village."
     ],
-    "source": "",
-    "sourceUrl": ""
+    "source": "Le Robert",
+    "sourceUrl": "https://dictionnaire.lerobert.com/definition/hurluberlu"
   },
   {
     "mot": "Zigomar",
-    "correctDefinition": "",
+    "description": "",
+    "correctDefinition": "Zigoto.",
     "fakeDefinitions": [
-      "",
-      "",
+      "Spécimen végétal extra-terrestre.",
+      "Désigne un·e comédien·ne qui ne sait pas jouer.",
       ""
     ],
-    "source": "",
-    "sourceUrl": ""
+    "source": "Dictionnaire de l'Académie Française",
+    "sourceUrl": "https://www.dictionnaire-academie.fr/article/A9Z0052"
   },
   {
     "mot": "Tintamarre",
-    "correctDefinition": "",
+    "description": "",
+    "correctDefinition": "Bruit assourdissant.",
     "fakeDefinitions": [
-      "",
-      "",
-      ""
+      "Une espèce de canards reconnaissable à son très long bec.",
+      "Désigne un ou plusieurs enfants qui jouent dans la boue."
     ],
-    "source": "",
-    "sourceUrl": ""
+    "source": "Larousse",
+    "sourceUrl": "https://www.larousse.fr/dictionnaires/francais/tintamarre/78124"
   },
   {
     "mot": "Carambouille",
-    "correctDefinition": "",
+    "description": "",
+    "correctDefinition": "Arnaque qui consiste à acheter de la marchandise sans payer tout de suite pour le revendre immédiatement, avant de disparaître sans jamais rembourser le vendeur.",
     "fakeDefinitions": [
-      "",
-      "",
-      ""
+      "Accrochage entre deux voitures sans dégât humain.",
+      "Action de jouer de la batterie n'importe comment, juste pour faire du bruit.",
+      "Soupe aux multiples ingrédients, parfois peu comestibles."
     ],
-    "source": "",
-    "sourceUrl": ""
-  },
-  {
-    "mot": "",
-    "correctDefinition": "",
-    "fakeDefinitions": [
-      "",
-      "",
-      ""
-    ],
-    "source": "",
-    "sourceUrl": ""
-  },
-  {
-    "mot": "",
-    "correctDefinition": "",
-    "fakeDefinitions": [
-      "",
-      "",
-      ""
-    ],
-    "source": "",
-    "sourceUrl": ""
-  },
-  {
-    "mot": "",
-    "correctDefinition": "",
-    "fakeDefinitions": [
-      "",
-      "",
-      ""
-    ],
-    "source": "",
-    "sourceUrl": ""
-  },
-  {
-    "mot": "",
-    "correctDefinition": "",
-    "fakeDefinitions": [
-      "",
-      "",
-      ""
-    ],
-    "source": "",
-    "sourceUrl": ""
+    "source": "Larousse",
+    "sourceUrl": "https://www.larousse.fr/dictionnaires/francais/carambouille/13083"
   }
 ]

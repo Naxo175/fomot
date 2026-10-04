@@ -23,10 +23,11 @@ const historyList = document.getElementById('history-list');
 
 const btnToggleMenu = document.getElementById('btn-toggle-menu');
 const historySidebar = document.getElementById('history-sidebar');
+const historyTitle = document.getElementById('history-title');
 
 async function loadWords() {
     try {
-        const response = await fetch('https://raw.githubusercontent.com/Naxo175/fomot/refs/heads/main/words.json');
+        const response = await fetch('words.json');
         const data = await response.json();
         words = data.filter(w => w.mot && w.mot.trim() !== "");
         updateHistoryUI();
@@ -50,12 +51,17 @@ function updateScoreDisplay() {
 
 function updateHistoryUI() {
     if (!historyList) return;
+
     historyList.innerHTML = '';
     usedWords.forEach(word => {
         const li = document.createElement('li');
         li.textContent = word;
         historyList.appendChild(li);
     });
+
+    if (historyTitle) {
+        historyTitle.textContent = `Mots joués - ${usedWords.length}/${words.length}`;
+    }
 }
 
 function shuffleArray(array) {
@@ -70,7 +76,7 @@ function showNextWord() {
     const remainingWords = words.filter(item => !usedWords.includes(item.mot));
 
     if (remainingWords.length === 0) {
-        wordDisplay.textContent = "Plus de mots pour aujourd'hui ! Reviens demain pour de nouveaux défis.";
+        wordDisplay.textContent = "Plus de mots pour aujourd'hui ! Reviens plus tard...";
         wordDisplay.style.fontSize = "32px";
         resultMessage.classList.add('hidden');
         buttonsContainer.classList.add('hidden');
@@ -136,7 +142,13 @@ function checkAnswer(isCorrect) {
     resultMessage.classList.remove('hidden');
     buttonsContainer.classList.add('hidden');
     
-    descriptionText.innerHTML = currentWord.correctDefinition;
+    let htmlContent = `<div class="definition-main">${currentWord.correctDefinition}</div>`;
+
+    if (currentWord.description && currentWord.description.trim() !== "") {
+        htmlContent += `<div class="definition-extra">${currentWord.description}</div>`;
+    }
+
+    descriptionText.innerHTML = htmlContent;
     descriptionBox.classList.remove('hidden');
 
     if (currentWord.source && currentWord.sourceUrl) {
